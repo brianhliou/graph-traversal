@@ -1,5 +1,8 @@
-# main.py
 from gui import MazeGUI
 
-gui = MazeGUI()
-gui.show()  # Show the GUI
+def main():
+    gui = MazeGUI()
+    gui.show()  # Show the GUI
+    
+if __name__ == "__main__":
+    main()
