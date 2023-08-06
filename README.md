@@ -1,3 +1,3 @@
 # graph-traversal
 
-![Demo Video](https://i.imgur.com/KAFApX7.gif)
+![Demo Video](./demo/graph_demo.gif)
